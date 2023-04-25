@@ -4,9 +4,9 @@
 
 <h1>Greetings, I'm Tony. 👋</h1>
 
-I'm a frontend developer based in Tokyo, Japan.
+I'm a frontend developer based in Tokyo, Japan. :japan:
 <br>
-I enjoy UI design and implementing that design in clean code.
+I enjoy UI design and implementing that design with clean code.
 <br>
 :email: - <a href="mailto:lengtk@gmail.com">lengtk@gmail.com</a>
 
