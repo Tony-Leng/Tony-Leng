@@ -6,7 +6,7 @@
 
 I'm a frontend developer based in Tokyo, Japan. :japan:
 <br>
-I enjoy UI design and implementing that design with clean code.
+I enjoy frontend development and UI design.
 <br>
 :email: - <a href="mailto:lengtk@gmail.com">lengtk@gmail.com</a>
 
