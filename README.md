@@ -1,5 +1,29 @@
-### Hi there 👋
+<head>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+</head>
 
+<h1>Greetings, I'm Tony. 👋</h1>
+
+I'm a frontend developer based in Tokyo, Japan.
+<br>
+I enjoy UI design and implementing that design in clean code.
+<br>
+:email: - <a href="mailto:lengtk@gmail.com">lengtk@gmail.com</a>
+
+<h3>:hammer: What I build with:</h3>
+<div display=flex>
+  <img width=40 height=40 src=https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg>
+  <img width=40 height=40 src=https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg>
+  <img width=40 height=40 src=https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg>
+  <img width=40 height=40 src=https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg>
+  <img width=40 height=40 src=https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg>
+  <img width=40 height=40 src=https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg>
+<div>
+<h3>:pencil2: What I design with:</h3>
+  <div display=flex>
+  <img width=40 height=40 src=https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg>
+  <img width=40 height=40 src=https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg>
+<div>
 <!--
 **Tony-Leng/Tony-Leng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
