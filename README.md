@@ -18,6 +18,7 @@ I enjoy frontend coding and UI design.
   <img width=40 height=40 src=https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg>
   <img width=40 height=40 src=https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg>
   <img width=40 height=40 src=https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg>
+  <img width=40 height=40 src=https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg>
 <div>
 <h3>:pencil2: What I design with:</h3>
   <div display=flex>
