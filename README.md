@@ -2,9 +2,9 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 </head>
 
-<h1>Greetings, I'm Tony. 👋</h1>
+<h1>Hello, my name is Tony. 👋</h1>
 
-I'm a frontend developer based in Tokyo, Japan. :japan:
+I'm a frontend developer based in Tokyo, Japan.
 <br>
 I enjoy frontend coding and UI design.
 <br>
