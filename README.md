@@ -10,7 +10,7 @@ I enjoy frontend development and web design.
 <br>
 :email: - <a href="mailto:lengtk@gmail.com">lengtk@gmail.com</a>
 
-<h3>:hammer: What I build with:</h3>
+<h3>🌱 What I build with:</h3>
 <div display=flex>
   <img width=50 height=50 src=https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg>
   <img width=50 height=50 src=https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg>
@@ -22,7 +22,7 @@ I enjoy frontend development and web design.
   <img width=50 height=50 src=https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg>
   <img width=50 height=50 src=https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg>
 <div>
-<h3>:pencil2: What I design with:</h3>
+<h3>⚡ What I design with:</h3>
   <div display=flex>
   <img width=50 height=50 src=https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg>
   <img width=50 height=50 src=https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg>
