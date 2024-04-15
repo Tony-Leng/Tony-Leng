@@ -17,7 +17,7 @@ I enjoy frontend development and web design.
   <img width=50 height=50 src=https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg>
   <img width=50 height=50 src=https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg>
   <img width=50 height=50 src=https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg>
-  <img width=50 height=50 src=https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg>
+  <img width=50 height=50 src=https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg>
   <img width=50 height=50 src=https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg>
   <img width=50 height=50 src=https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg>
   <img width=50 height=50 src=https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg>
