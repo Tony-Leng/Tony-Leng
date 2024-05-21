@@ -4,9 +4,9 @@
 
 <h1>Hello, my name is Tony. 👋</h1>
 
-I'm a frontend developer based in Tokyo, Japan.
+I'm an aspiring Product Manager that's based in Tokyo, Japan.
 <br>
-I enjoy frontend development and web design.
+I want to build products that help people by leveraging business, design and coding knowledge.
 <br>
 :email: - <a href="mailto:lengtk@gmail.com">lengtk@gmail.com</a>
 
